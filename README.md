@@ -51,7 +51,7 @@ sumit chakrobarty
 
 cat < file2
 ## OUTPUT
-chanchal singhvi
+chanchal singhvi 
 c.k. shukla
 s.n. dasgupta
 sumit chakrobarty
